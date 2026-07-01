@@ -16,3 +16,4 @@ uv add "transformers[sentencepiece]"
 ```bash
 uv run main.py
 ```
+Removed uv dependencies. Using Google Colab for development. My MacBook is old (intel-based).
